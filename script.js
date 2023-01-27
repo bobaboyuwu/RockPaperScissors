@@ -67,7 +67,7 @@ function playRound(playerSelection, computerSelection) {
         plaScore.appendChild(playScore);
         comScore.appendChild(compScore);
         } else {
-            console.log(playerScore);
+            
         };
 
         if (playerScore == 5) {
@@ -79,6 +79,6 @@ function playRound(playerSelection, computerSelection) {
             winnerDec.appendChild(winner);
         }
         else {
-            console.log("hi");
+            
         }
     }

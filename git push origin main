@@ -1,0 +1,53 @@
+[33mcommit b3b98e7fe0070de44d654b59db8d8e1c84b571eb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/rps-ui[m[33m, [m[1;32mrps-ui[m[33m)[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Thu Jan 26 21:34:58 2023 -0800
+
+    Add the complete UI layout
+
+[33mcommit 9915a0d925ef727b9d9d4a6f06af55a3846c756e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Tue Dec 20 20:57:03 2022 -0800
+
+    Add the title and text to body.
+
+[33mcommit dd0f352b6f292ca4d2b94a1d09a39a680cc80511[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Wed Dec 14 17:04:26 2022 -0800
+
+    Add results, declare winner, add a button to play
+
+[33mcommit 2b889445204b62bfd16db4f437fd66adb508a99c[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Thu Dec 8 00:21:31 2022 -0800
+
+    Refine the getComputerChoice function and add outcomes
+
+[33mcommit cb5eb1d463e4c8a812d6210bcf25fd5f9bbea0fd[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Wed Dec 7 00:32:18 2022 -0800
+
+    Add first edits to script.js
+
+[33mcommit 01ea396b1586f022bf223bb1c3886c1daa05c980[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Wed Dec 7 00:03:22 2022 -0800
+
+    Change my username and edit script.js
+
+[33mcommit 5bae10fd799cfed7b7dc4a39a88b036a6e0bbeb0[m
+Author: Jordan <jordanlaxa22@gmail.com>
+Date:   Wed Dec 7 00:02:48 2022 -0800
+
+    Change my username and edit script.js
+
+[33mcommit 4b3747e4bf729d3fcc766e9d32835d5110d60e72[m
+Author: John Doe <jordanlaxa22@gmail.com>
+Date:   Tue Dec 6 23:57:53 2022 -0800
+
+    Edit index.html and create script.js
+
+[33mcommit 89286eeeac4ec62b4bffa01437c4f2d0b10ac1bd[m
+Author: bobaboyuwu <89777188+bobaboyuwu@users.noreply.github.com>
+Date:   Tue Dec 6 23:39:44 2022 -0800
+
+    Initial commit
